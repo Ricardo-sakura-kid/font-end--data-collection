@@ -1,2 +1,2 @@
-# the-first
-welcome to zing-hexu‘s world
+﻿# the-first
+welcome to zing-hexu's world
