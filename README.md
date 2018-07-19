@@ -7,3 +7,6 @@
 
 ## JS动画 PK CSS3动画（上）
 > http://www.mrfront.com/2016/10/12/web-animate-1/
+
+
+http://www.jqhtml.com/category/python/python-numpy
